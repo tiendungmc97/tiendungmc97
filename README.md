@@ -8,7 +8,7 @@
 - Enjoy working with ReactJS ❤
 
 
-## Working <a href="https://github.com/tiendungmc97"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
+<img align="left" width="auto" height="200" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
 
 
 ## Projects for teaching
