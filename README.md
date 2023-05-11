@@ -1,7 +1,3 @@
-
-
-# Tien Dung - Passionate Web Developer
-
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
 - Enjoy working with ReactJS ❤
@@ -9,7 +5,7 @@
 
 Hello 👋!
 
-I am Tim Mouskhelichvili, a Full-Stack Developer from Montreal, Canada 🇨🇦.
+I am Tien Dung, a Full-Stack Developer from HaNoi, VietNam.
 
 I specialize in React, Node.js & TypeScript application development.
 
@@ -17,7 +13,7 @@ React Node.js TypeScript
 
 I have over seven years of experience in application development.
 
-HOW TO CONTACT ME?
+# HOW TO CONTACT ME?
 Email me at 📧: t.mouskhelichvili@protonmail.com
 Visit my website: https://timmousk.com
 Check out my portfolio: https://timmousk.com/portfolio
