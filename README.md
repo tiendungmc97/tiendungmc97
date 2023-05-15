@@ -9,9 +9,9 @@ React Node.js TypeScript
 I have over three years of experience in application development.
 
 # HOW TO CONTACT ME?
-Email me at 📧: t.mouskhelichvili@protonmail.com
+Email me at 📧: tiendungmc97@gmail.com
 
-Visit my website: https://timmousk.com
+Visit my website: 
 
-Check out my portfolio: https://timmousk.com/portfolio
+Check out my portfolio: 
 
