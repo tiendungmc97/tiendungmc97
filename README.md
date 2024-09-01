@@ -2,7 +2,7 @@ Hello 👋!
 
 I am Tien Dung, a Frontend Developer from HaNoi, VietNam.
 
-I specialize in React, Node.js & TypeScript application development.
+I specialize in React, Nextjs, Node.js & TypeScript application development.
 
 React Node.js TypeScript
 
